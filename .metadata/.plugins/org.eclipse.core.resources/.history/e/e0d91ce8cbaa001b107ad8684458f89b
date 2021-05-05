@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Second</title>
+</head>
+<body>
+	<form action="twoServlet" method="post">
+		Enter Age: <input type="number" value="age">
+		Enter Email: <input type="email" value="email">
+		<input type="submit" value="Next">
+	</form>
+</body>
+</html>

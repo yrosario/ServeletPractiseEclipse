@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="firstServlet" method="post">
+		Enter FirstName: <input type="text" value="fname">
+		Enter LastName: <input type="text" value="lname">
+		<input type="submit" value="Next">
+	</form>
+</body>
+</html>

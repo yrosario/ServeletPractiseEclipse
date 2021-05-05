@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Third</title>
+</head>
+<body>
+	<form action="ThreeServlet" method="post">
+		Enter Contact: <input type="number" value="age">
+		Enter City: <input type="email" value="email">
+		<input type="submit" value="Next">
+	</form>
+
+</body>
+</html>

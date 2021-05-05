@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+/home/end/eclipse-workspace-webdev/.metadata/.plugins/org.eclipse.jdt.core
+1726638878.index
+4036805031.index
+4268010125.index
+195412728.index
+4063195273.index
+566205072.index
+3770444037.index
+641698559.index
+939928772.index
+3922731812.index
